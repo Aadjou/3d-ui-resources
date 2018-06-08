@@ -18,7 +18,7 @@ perspective of an immersive experience designer.
 **UX for VR collection**
 
 UX for VR is a great source for XR related UX/UI articles.
-Pull requests with new sources are very welcom e.
+Pull requests with new sources are very welcome.
 
 *Glenister, Max.* [UX for VR][0]
 
