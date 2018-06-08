@@ -1,12 +1,5 @@
 ## UI/UX Design Principles
 
-
-**UI/UX design for WebVR**
-
-Carpenter, Josh. 19.01.2015
-
-[![UI/UX design for WebVR Video](http://img.youtube.com/vi/ZOaOYTOpwyM/0.jpg)](https://youtu.be/ZOaOYTOpwyM "UI/UX design for WebVR with Josh Carpenter")
-
 **UX pointers for VR design**
 
 West, Timoni. 10.11.2015, [Medium][2]

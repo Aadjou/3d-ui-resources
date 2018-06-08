@@ -12,9 +12,6 @@ Therefore it is important to keep in mind what are the specialities and limitati
 
 Defining Best Practices by [Hololens Journal][1]
 
-## Microsoft Mixed Reality Headset
-(WIP)
-
 ## Oculus
 
 Introduction to Best Practices by [Oculus Developers][2]
@@ -22,10 +19,18 @@ Introduction to Best Practices by [Oculus Developers][2]
 ## Google Cardboard & Daydream
 (WIP)
 
+## HTC Vive
+(WIP)
+
+## Playstation VR
+(WIP)
+
 
 ## Magic Leap
 (WIP)
 
+## Microsoft Mixed Reality Headset
+(WIP)
 
 
 [1]: https://web.archive.org/web/20161107020835/https://hololensjournal.com/2016/09/24/defining-the-best-practices-for-hololens-welcome-to-the-wild-wild-west/)
