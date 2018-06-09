@@ -1,5 +1,17 @@
 ## UI/UX Design Principles
 
+**Taking the leap from 2d to 3d**
+
+Haejin Lee describes her experience transitioning from a 2D flatland designer
+to a 3D experience designer in her first year after she joined the HoloLens team.
+Read about why transferring 2D thinking into 3D space does not work and what are
+the unique properties thinking in 3D space and why prototyping is important in 3D.
+
+**Keywords:** Diegetic UI, world-locked / body-locked elements, skeumorphism,
+magical interaction, teleportation, user is actor
+
+*Lee, Haejin.* 14.02.2017, [Microsoft Design on Medium][4]
+
 **UX pointers for VR design**
 
 *West, Timoni.* 10.11.2015, [Medium][2]
@@ -35,3 +47,4 @@ and Sound design.
 [1]: https://developer.leapmotion.com/explorations#110
 [2]: https://medium.com/@timoni/ux-pointers-for-vr-design-dd52b718e19
 [3]: https://medium.com/futurepi/best-practices-for-mixed-reality-design-in-2017-7dab602574eb
+[4]: https://medium.com/microsoft-design/taking-the-leap-from-2d-to-3d-4199ccc777a1
