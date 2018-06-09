@@ -25,7 +25,6 @@ Introduction to Best Practices by [Oculus Developers][2]
 ## Playstation VR
 (WIP)
 
-
 ## Magic Leap
 (WIP)
 
