@@ -13,16 +13,16 @@ Great resources for crafting 3D UI / UX Design for mixed reality
 ## Basics
 - [UI/UX Design Principles](docs/basics.md#uiux-design-principles)
 - Interaction Principles
-- Differences between 2D and 3D UX/UI
+- [Differences between 2D and 3D UX/UI](docs/basics.md)
 - Experience Principles
 - Visual and Spatial Consistency
-- Audio Cues
+- [Audio Cues](docs/basics.md#audio)
 - [Typography & Text](docs/basics.md#typography)
 - [External Resources Collections](docs/basics.md#collections)
 
 ## Spatial Thinking
 - Natural interactions
-- Spatialized Audio
+- Holophonic / Spatial Audio
 - Allocentric vs. Egocentric Spatial Processing / Navigation
 
 ## Simplification
@@ -39,9 +39,9 @@ Great resources for crafting 3D UI / UX Design for mixed reality
 - [Principles for different vendors & devices](docs/xr-device-landscape.md#mixed-reality-device-landscape)
 - Proprietary input devices & interactions
 
-## Storytelling
+## Storytelling & Visual Narrative
+- [Scenography](docs/storytelling.md#) - the design and painting of theatrical scenery
 - Visual language
-- Scenography - the design and painting of theatrical scenery
 - The companion element
 
 ## Demos

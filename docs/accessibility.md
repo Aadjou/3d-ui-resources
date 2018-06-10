@@ -12,6 +12,14 @@ that space there are many human factors that shape what is comfortable.
 *Payne, Jacob*. 13.11.2017, [Medium][1]
 
 
+# Embodiment & User comfort
+
+GRAVR is creating a standardized platform to defragment VR for the device-agnostic
+web. Users can specify and manage their inputs, controllers, headsets and
+other VR hardware to receive an optimized performance and quality experience.
+
+[Gravr.io](https://www.gravr.io/)
+
 # Science
 
 **Heidi Sveistrup**, J Neuroengineering Rehabil. 2004

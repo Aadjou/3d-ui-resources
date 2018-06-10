@@ -62,6 +62,28 @@ Virtual Reality bridges this gap.
 *Jerald, Jason.* 16.10.2015, [Website TheVrBook][7]
 <br><br>
 
+## Differences between 2D and 3D UI Design
+
+**Gamasutra Game UI Discoveries**
+
+Traditional HUDs live under constant scrutiny in ongoing efforts to make the
+UI as transparent as possible, allowing the player to immerse themselves into the game.
+This article describes how we can put the interface in the real world.
+
+*Keywords:* diegetic, non-diegetic, meta, spatial UI
+
+*Andrews, Marcus.* 23.02.2010, [Gamasutra][8]
+<br><br>
+
+## Audio
+
+Holophonic Sound examples on YouTube are best experienced with headphones.
+
+[![3D Sound Video YouTube](http://img.youtube.com/vi/MytAOmbnLpg/0.jpg)](http://www.youtube.com/watch?v=MytAOmbnLpg "Holophonic Sound (3D) - Psychiatric Hospital - Madness")
+
+*What2see, YouTube*. 05.10.2014
+<br><br>
+
 ## Typography
 
 **Museum of Type**
@@ -110,3 +132,4 @@ and Sound design.
 [5]: https://medium.com/microsoft-design/museum-of-type-windows-mixed-reality-app-design-development-story-95ef8b35f196
 [6]: https://uxdesign.cc/the-principles-of-good-user-experience-design-for-augmented-reality-d8e22777aabd
 [7]: http://www.thevrbook.net/
+[8]: https://www.gamasutra.com/view/feature/4286/game_ui_discoveries_what_players_.php?print=1
