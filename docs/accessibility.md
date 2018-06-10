@@ -3,8 +3,13 @@
 
 # Comfort
 
-**Physicality**
-[aa][1]
+**UX 101 for Virtual and Mixed Reality — Part 1: Physicality**
+
+Now that you’re no longer designing for a flat screen you have to consider
+the entire environment around a user as a potential interface. Within
+that space there are many human factors that shape what is comfortable.
+
+*Payne, Jacob*. 13.11.2017, [Medium][1]
 
 
 # Science

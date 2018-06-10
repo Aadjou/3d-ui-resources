@@ -1,5 +1,17 @@
 ## UI/UX Design Principles
 
+**VR Interface Design Manifesto**
+
+A declaration of intent for the research and design of user interfaces for ergonomic
+multitasking in virtual reality, focused primarily on the interaction design
+of operating systems and browsers. The purpose of this manifesto is to explain
+intent as well as individual bias, assumptions, and reasons.
+
+[![Youtube Video VR](http://img.youtube.com/vi/n3b8hZ5NV2E/0.jpg)](http://www.youtube.com/watch?v=n3b8hZ5NV2E "VR Interface Design Manifesto")
+
+*Alger, Mike.*, 06.01.2015, YouTube
+<br><br>
+
 **Taking the leap from 2d to 3d**
 
 Haejin Lee describes her experience transitioning from a 2D flatland designer
@@ -11,6 +23,7 @@ the unique properties thinking in 3D space and why prototyping is important in 3
 magical interaction, teleportation, user is actor
 
 *Lee, Haejin.* 14.02.2017, [Microsoft Design on Medium][4]
+<br><br>
 
 **Principles of good UX for AR**
 
@@ -22,10 +35,13 @@ experiences you design are easy to use, memorable, and leave a lasting impressio
 *Keywords:* Environmental Design, AR objects, ergonomics, comfort, empathy
 
 *Wilson, Tyler.* 14.11.2017, [UXdesign.cc Medium][6]
+<br><br>
 
 **UX pointers for VR design**
 
+(WIP)
 *West, Timoni.* 10.11.2015, [Medium][2]
+<br><br>
 
 
 **Best Practices For Mixed Reality Design in 2017**
@@ -34,6 +50,7 @@ This medium blogpost lists 15 design practices of Mixed Reality design from a
 perspective of an immersive experience designer.
 
 *Rizotto, Lucas.* 16.01.2017, [Medium][3]
+<br><br>
 
 
 **The VR Book**
@@ -43,7 +60,7 @@ the experience will always fail. The VR Book: Human-Centered Design for
 Virtual Reality bridges this gap.
 
 *Jerald, Jason.* 16.10.2015, [Website TheVrBook][7]
-
+<br><br>
 
 ## Typography
 
@@ -53,6 +70,17 @@ Windows Mixed Reality App Design & Development Story
 Typography insights for Hololens
 
 *Park, Dong Yoon.* 14.11.2017, [Microsoft Design Medium][5]
+<br><br>
+
+**Designing Screen Interfaces for VR**
+
+When we think of VR, our minds naturally gravitate towards three-dimensional
+environments and interactions. But, there are times when it’s necessary to present content in a two-dimensional way. With VR, we have the opportunity to reevaluate the nature of screens, and how we view and interact with screen-based content. This talk will cover techniques the Daydream team uses to create legible, usable screen interfaces in VR. We will introduce new workflows, new units, and highlight interaction opportunities and pitfalls.
+
+[![Youtube Video Google I/O17](http://img.youtube.com/vi/ES9jArHRFHQ/0.jpg)](http://www.youtube.com/watch?v=ES9jArHRFHQ "Designing Screen Interfaces for VR")
+
+*Chris McKenzie.*, Google I/O 2017
+<br><br>
 
 ## Collections
 
@@ -62,6 +90,7 @@ UX for VR is a great source for XR related UX/UI articles.
 Pull requests with new sources are very welcome.
 
 *Glenister, Max.* [UX for VR][0]
+<br><br>
 
 **Explorations in VR**
 
@@ -70,6 +99,7 @@ and user safety, object interaction design, UI Design, storytelling & narrative,
 and Sound design.
 
 *Leap Motion, Inc.* 2017, [Leap Motion Collections][1]
+<br><br>
 
 
 [0]: https://www.uxofvr.com/

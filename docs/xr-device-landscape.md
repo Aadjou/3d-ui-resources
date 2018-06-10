@@ -17,7 +17,8 @@ Defining Best Practices by [Hololens Journal][1]
 Introduction to Best Practices by [Oculus Developers][2]
 
 ## Google Cardboard & Daydream
-(WIP)
+
+Key Concepts and developer guidelines by [Google Developers][3]
 
 ## HTC Vive
 (WIP)
@@ -31,6 +32,6 @@ Introduction to Best Practices by [Oculus Developers][2]
 ## Microsoft Mixed Reality Headset
 (WIP)
 
-
-[1]: https://web.archive.org/web/20161107020835/https://hololensjournal.com/2016/09/24/defining-the-best-practices-for-hololens-welcome-to-the-wild-wild-west/)
+[1]: https://hololensjournaldotcom.wordpress.com/
 [2]: https://developer.oculus.com/design/latest/concepts/book-bp/
+[3]: https://developers.google.com/vr/discover/#key_concepts

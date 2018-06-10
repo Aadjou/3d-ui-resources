@@ -49,10 +49,12 @@ Data visualization in VR/AR is quite exciting, opening up new opportunities for 
 ## Other
 
 **Swiss Mixed Reality Demos**
+
 Demos from a swiss studio specializing in Hololens applications.
 [Mixed Reality by Afca](https://mixedreality.afca.ch/)
 
 **Job Simulator**
+
 A game in which you perform menial tasks (and throw things) by Owlchemy Labs
 [Job Simulator](https://jobsimulatorgame.com/)
 

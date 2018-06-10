@@ -1,8 +1,9 @@
 # 3d-ui-resources
 Great resources for crafting 3D UI / UX Design for mixed reality
 
-- mostly external resources, summarized with a short description
+- Mostly external resources, summarized with a short description
 - Please report if links stop working or information is outdated
+- Make PRs for new content - this is far from finalized
 
 ## General Comments
 - Many principles are evolving slowly
@@ -16,7 +17,7 @@ Great resources for crafting 3D UI / UX Design for mixed reality
 - Experience Principles
 - Visual and Spatial Consistency
 - Audio Cues
-- Typography & Text
+- [Typography & Text](docs/basics.md#typography)
 - [External Resources Collections](docs/basics.md#collections)
 
 ## Spatial Thinking
@@ -32,7 +33,7 @@ Great resources for crafting 3D UI / UX Design for mixed reality
 ## Accessibility
 - Cognitive and Motoric Function
 - Design for different needs and abilities
-- Comfort
+- [Comfort](docs/accessibility.md#comfort)
 
 ## Landscape of XR devices
 - [Principles for different vendors & devices](docs/xr-device-landscape.md#mixed-reality-device-landscape)
@@ -42,3 +43,6 @@ Great resources for crafting 3D UI / UX Design for mixed reality
 - Visual language
 - Scenography - the design and painting of theatrical scenery
 - The companion element
+
+## Demos
+- [List of demos](docs/demos.md)
