@@ -13,7 +13,7 @@ Great resources for crafting 3D UI / UX Design for mixed reality
 ## Basics
 - [UI/UX Design Principles](docs/basics.md#uiux-design-principles)
 - Interaction Principles
-- [Differences between 2D and 3D UX/UI](docs/basics.md)
+- [Differences between 2D and 3D UX/UI](docs/basics.md#differences-between-2d-and-3d-ui-design)
 - Experience Principles
 - Visual and Spatial Consistency
 - [Audio Cues](docs/basics.md#audio)

@@ -75,6 +75,16 @@ This article describes how we can put the interface in the real world.
 *Andrews, Marcus.* 23.02.2010, [Gamasutra][8]
 <br><br>
 
+**User interface design in video games**
+
+Diegetic user interface elements exist within the game world (fiction and geometry)
+so the player and avatar can interact with them through visual, audible or haptic means.
+Well executed diegetic UI elements enhance the narrative experience for the player,
+providing a more immersive and integrated experience.
+
+*Stonehouse, Anthony.* 27.02.2014, [Gamasutra][9]
+<br><br>
+
 ## Audio
 
 Holophonic Sound examples on YouTube are best experienced with headphones.
@@ -133,3 +143,4 @@ and Sound design.
 [6]: https://uxdesign.cc/the-principles-of-good-user-experience-design-for-augmented-reality-d8e22777aabd
 [7]: http://www.thevrbook.net/
 [8]: https://www.gamasutra.com/view/feature/4286/game_ui_discoveries_what_players_.php?print=1
+[9]: https://www.gamasutra.com/blogs/AnthonyStonehouse/20140227/211823/User_interface_design_in_video_games.php
